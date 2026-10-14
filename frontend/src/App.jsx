@@ -59,7 +59,7 @@ export default function App() {
     <div className="min-h-screen bg-gray-100 py-8 px-4">
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl sm:text-4xl font-bold text-center text-indigo-700 mb-2">
-          📚 BookShelf Manager
+          BookShelf Manager
         </h1>
         <p className="text-center text-gray-500 mb-6">
           {books.length} books · {readCount} read
